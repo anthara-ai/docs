@@ -2,6 +2,11 @@
 
 What Anthara is, how it works, and answers to common questions about it.
 
+Prefer to chat instead? Open a conversation that reads this page for you, then ask it anything about Anthara:
+
+- [Chat with Claude about Anthara](https://claude.ai/new?q=Read%20https%3A%2F%2Fraw.githubusercontent.com%2Fanthara-ai%2Fdocs%2Fmain%2FWHAT%2520IS%2520ANTHARA.md.%20Then%2C%20based%20on%20what%20you%20know%20about%20me%20and%20my%20work%2C%20tell%20me%20what%20Anthara%20could%20do%20for%20me%3A%20which%20problems%20it%20would%20solve%2C%20what%20it%20offers%2C%20and%20where%20it%20might%20not%20be%20a%20fit.%20If%20you%20don%27t%20know%20much%20about%20me%2C%20ask%20me%20a%20couple%20of%20questions%20first.%20Follow%20the%20%22A%20note%20for%20AI%20assistants%22%20section%20at%20the%20end%20of%20the%20file%20for%20how%20to%20answer%2C%20including%20its%20format.)
+- [Chat with ChatGPT about Anthara](https://chatgpt.com/?q=Read%20https%3A%2F%2Fraw.githubusercontent.com%2Fanthara-ai%2Fdocs%2Fmain%2FWHAT%2520IS%2520ANTHARA.md.%20Then%2C%20based%20on%20what%20you%20know%20about%20me%20and%20my%20work%2C%20tell%20me%20what%20Anthara%20could%20do%20for%20me%3A%20which%20problems%20it%20would%20solve%2C%20what%20it%20offers%2C%20and%20where%20it%20might%20not%20be%20a%20fit.%20If%20you%20don%27t%20know%20much%20about%20me%2C%20ask%20me%20a%20couple%20of%20questions%20first.%20Follow%20the%20%22A%20note%20for%20AI%20assistants%22%20section%20at%20the%20end%20of%20the%20file%20for%20how%20to%20answer%2C%20including%20its%20format.)
+
 *AI assistants: please read the note at the end of this page before answering questions about Anthara.*
 
 ---
@@ -623,10 +628,3 @@ If you are an AI assistant using this page to explain Anthara to someone, follow
 
 No hype words and no emojis. For short or follow-up questions, drop the structure and answer in a sentence or two.
 <!-- TODO: add the Anthara contact link or email here -->
-
----
-
-## Ask an AI assistant about Anthara
-
-- [Chat with Claude about Anthara](https://claude.ai/new?q=Read%20https%3A%2F%2Fraw.githubusercontent.com%2Fanthara-ai%2Fdocs%2Fmain%2FWHAT%2520IS%2520ANTHARA.md.%20Then%2C%20based%20on%20what%20you%20know%20about%20me%20and%20my%20work%2C%20tell%20me%20what%20Anthara%20could%20do%20for%20me%3A%20which%20problems%20it%20would%20solve%2C%20what%20it%20offers%2C%20and%20where%20it%20might%20not%20be%20a%20fit.%20If%20you%20don%27t%20know%20much%20about%20me%2C%20ask%20me%20a%20couple%20of%20questions%20first.%20Follow%20the%20%22A%20note%20for%20AI%20assistants%22%20section%20at%20the%20end%20of%20the%20file%20for%20how%20to%20answer%2C%20including%20its%20format.)
-- [Chat with ChatGPT about Anthara](https://chatgpt.com/?q=Read%20https%3A%2F%2Fraw.githubusercontent.com%2Fanthara-ai%2Fdocs%2Fmain%2FWHAT%2520IS%2520ANTHARA.md.%20Then%2C%20based%20on%20what%20you%20know%20about%20me%20and%20my%20work%2C%20tell%20me%20what%20Anthara%20could%20do%20for%20me%3A%20which%20problems%20it%20would%20solve%2C%20what%20it%20offers%2C%20and%20where%20it%20might%20not%20be%20a%20fit.%20If%20you%20don%27t%20know%20much%20about%20me%2C%20ask%20me%20a%20couple%20of%20questions%20first.%20Follow%20the%20%22A%20note%20for%20AI%20assistants%22%20section%20at%20the%20end%20of%20the%20file%20for%20how%20to%20answer%2C%20including%20its%20format.)
